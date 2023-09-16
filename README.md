@@ -5,7 +5,7 @@
 <img align="right" alt="ai" height="240" width="320" src="ai.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iujinasena&label=Profile%20views&color=0e75b6&style=flat" alt="iujinasena" /> </p> -->
-<br><br>
+<br>
 
 - Undergraduate in **Computer Science**
 - Interested in **IoT, Data Science, Machine Learning, Cloud Computing and Robotics**
@@ -14,7 +14,7 @@
 - Passionate gamer
 
 </section>
-<br><br><br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/isurujinasena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isurujinasena" height="30" width="40" /></a>
@@ -34,6 +34,6 @@
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=iujinasena&show_icons=true&locale=en" alt="iujinasena" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=iujinasena&show_icons=true&locale=en" alt="iujinasena" height="195" width="400"/></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iujinasena&layout=compact" alt="iujinasena" height="195" width="440"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iujinasena&layout=compact" alt="iujinasena" height="195" width="400"/></p>
