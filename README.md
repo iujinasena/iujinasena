@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML enthusiast</h3>
 <br>
 <section>
-<img align="right" alt="ai" height="240" width="320" src="ai.gif">
+<img align="right" alt="ai" height="234" width="312" src="ai.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iujinasena&label=Profile%20views&color=0e75b6&style=flat" alt="iujinasena" /> </p> -->
 <br>
@@ -35,6 +35,6 @@
 </p>
 <br>
 
-<img style="padding:0px" align="left" src="https://github-readme-stats.vercel.app/api?username=iujinasena&show_icons=true&locale=en" alt="iujinasena" height="195" width="400"/>
+<img style="padding:0px 0px 0px 0px"  align="left" src="https://github-readme-stats.vercel.app/api?username=iujinasena&show_icons=true&locale=en" alt="iujinasena" height="195" width="400"/>
 
-<img style="padding:0px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iujinasena&layout=compact" alt="iujinasena" height="195" width="360"/>
+<img style="padding:0px 0px 0px 0px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iujinasena&layout=compact" alt="iujinasena" height="195" width="360"/>
