@@ -12,6 +12,7 @@
 - Love to build **AI-based robots**
 - Creative thinker, team player, quick learner
 - Passionate gamer
+- Like pizza and coffee
 
 </section>
 <br>
@@ -36,4 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=iujinasena&show_icons=true&locale=en" alt="iujinasena" height="195" width="400"/></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iujinasena&layout=compact" alt="iujinasena" height="195" width="400"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iujinasena&layout=compact" alt="iujinasena" height="195" width="360"/></p>
