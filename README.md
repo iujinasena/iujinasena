@@ -5,9 +5,10 @@
 <img align="right" alt="ai" height="240" width="320" src="ai.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iujinasena&label=Profile%20views&color=0e75b6&style=flat" alt="iujinasena" /> </p> -->
-<br><br><br>
+<br><br>
 
 - Undergraduate in **Computer Science**
+- Interested in **IoT, Data Science, Machine Learning, Cloud Computing and Robotics**
 - Love to build **AI-based robots**
 - Creative thinker, team player, quick learner
 - Passionate gamer
@@ -35,4 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=iujinasena&show_icons=true&locale=en" alt="iujinasena" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iujinasena&layout=compact" alt="iujinasena" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iujinasena&layout=compact" alt="iujinasena" height="195" width="440"/></p>
