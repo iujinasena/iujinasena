@@ -2,10 +2,10 @@
 <h3 align="center">AI/ML enthusiast</h3>
 <br>
 <section>
-<img align="right" alt="ai" height="180" width="240" src="ai.gif">
+<img align="right" alt="ai" height="240" width="320" src="ai.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iujinasena&label=Profile%20views&color=0e75b6&style=flat" alt="iujinasena" /> </p> -->
-
+<br><br>
 - Undergraduate in **Computer Science**
 - Love to build **AI-based robots**
 - Creative thinker, team player, quick learner
@@ -24,7 +24,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
