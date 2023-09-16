@@ -6,12 +6,10 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iujinasena&label=Profile%20views&color=0e75b6&style=flat" alt="iujinasena" /> </p> -->
 <br>
+
 - Undergraduate in **Computer Science**
-<br>
 - Love to build **AI-based robots**
-<br>
 - Creative thinker, team player, quick learner
-<br>
 - Passionate gamer
 
 </section>
