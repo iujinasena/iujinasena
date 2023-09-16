@@ -40,6 +40,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40" height="40"/>&nbsp;         
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>&nbsp; 
+<img src="seaborn.png" alt="seaborn" width="40" height="40"/>&nbsp;
 <img src="streamlit.png" alt="streamlit" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
 </p>
