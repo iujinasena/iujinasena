@@ -45,8 +45,11 @@
 </p>
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iujinasena&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iujinasena&&exclude_repo=iujinasena&layout=compact&theme=dracula" alt="languages"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iujinasena&show_icons=true&locale=en&theme=dracula" alt="iujinasena" height="200" width="448"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iujinasena&layout=compact&theme=dracula" alt="iujinasena" height="200" width="324"/>
+</p>
 <br><br>
 <!-- email -->
 **email: iujinasena@gmail.com**
