@@ -54,5 +54,5 @@
 <br><br>
 <!-- email -->
 
-**email: iujinasena@gmail.com**
+**Email: iujinasena@gmail.com** <br>
 **Resume:** <a href="https://drive.google.com/file/d/1ZlP92pZl1PQ0TMmtGHXDwI2E3Fgu_GMV/view?usp=sharing">link</a>
