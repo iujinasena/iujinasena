@@ -11,7 +11,7 @@
 - Interested in **IoT, Data Science, Machine Learning, Cloud Computing and Robotics**
 - Love to build **AI-based robots**
 - Creative thinker, team player, quick learner
-- Passionate gamer
+- Passionate gamer (Valorant and Counter-Strike 2)
 - Like pizza and coffee
 
 </section>
