@@ -8,7 +8,7 @@
 <br>
 
 - Undergraduate in **Computer Science**
-- Interested in **IoT, Data Science, Machine Learning, Cloud Computing and Robotics**
+- Interested in **Machine Learning, Generative AI, Robotics, IoT, Computer Vision and Cloud Computing**
 - Love to build **AI-based robots**
 - Creative thinker, team player, quick learner
 - Passionate gamer (Valorant and Counter-Strike 2)
