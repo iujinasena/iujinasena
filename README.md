@@ -55,4 +55,4 @@
 <!-- email -->
 
 **Email: iujinasena@gmail.com** <br>
-**Resume:** <a href="https://drive.google.com/file/d/1ZlP92pZl1PQ0TMmtGHXDwI2E3Fgu_GMV/view?usp=sharing">**link**</a>
+**Resume:** <a href="https://drive.google.com/file/d/10vpSkQStOs5a6q2aujh4mzaLVqYfr7Hb/view?usp=drive_link">**link**</a>
