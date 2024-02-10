@@ -11,7 +11,6 @@
 - Interested in **Machine Learning, Generative AI, Robotics, IoT, Computer Vision and Cloud Computing**
 - Love to build **AI-based robots**
 - Creative thinker, team player, quick learner
-- Passionate gamer (IGN-Cygni)
 - Like pizza and coffee
 
 </section>
