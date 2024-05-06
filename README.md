@@ -12,7 +12,7 @@
 - Love to build **AI-based robots**
 - Creative thinker, team player, quick learner
 - Like pizza and coffee
-- Play Valorant as a hobby (Cygni#0000)
+- Play Valorant (Cygni#0000)
 
 </section>
 <br>
