@@ -12,7 +12,7 @@
 - Research-driven
 - Creative thinker, team player, quick learner
 - Like pizza and coffee
-- Play Valorant (Cygni #1101)
+- Play Valorant (Cygni #1101) and Counter-Strike 2 (Cygni)
 
 </section>
 <br>
